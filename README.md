@@ -1,37 +1,31 @@
-[🇺🇸 English](#-english-version) | [🇧🇷 Português](#-versão-em-português)
+# 👨‍💻 Rafael Matias de Lima Júnior
 
----
+**Network & Infrastructure Engineer | SRE in training | Zabbix, MikroTik & Linux Expert**
 
-## 🇺🇸 English Version
+Profissional apaixonado por infraestrutura de TI com 8 anos de experiência em Redes e 6 anos em VoIP e Servidores Linux. Atualmente, aplico minha bagagem em arquitetura de sistemas, alta disponibilidade e segurança para construir soluções de automação ponta a ponta, unindo o melhor da engenharia de redes com o desenvolvimento de software auxiliado por IA.
 
-### 🖐️ Hi, I'm Rafael!
+### 🏆 Certificações
+- **MikroTik:** MTCNA, MTCRE, MTCSE
+- **Inglês:** Professional Working Proficiency
 
-A passionate IT infrastructure professional with **8 years of experience in Networking** and **6 years in VoIP and Linux Infrastructure**. 
+### 🛠️ Hard Skills & Stack Tecnológico
 
-Currently, I merge this solid infrastructure background with **modern software development and automation assisted by Agentic Artificial Intelligence**. I apply all my expertise in system architecture, stability, and security to build end-to-end solutions — bridging the best of the networking world with intelligent software engineering.
+**Infraestrutura & Redes**
+![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-black?style=for-the-badge&logo=mikrotik)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-black?style=for-the-badge&logo=cisco)
+![AWS](https://img.shields.io/badge/AWS-Route53_|_EC2-232F3E?style=for-the-badge&logo=amazon-aws)
 
-#### 🚀 My Purpose
-To simplify the operations of small, medium, and large businesses by automating complex processes, allowing companies to focus on what truly matters: their growth.
+**Servidores & Monitoramento**
+![Linux](https://img.shields.io/badge/Linux-CentOS_|_Debian-FCC624?style=for-the-badge&logo=linux)
+![Zabbix](https://img.shields.io/badge/Zabbix-NOC_|_SNMP-D40000?style=for-the-badge&logo=zabbix)
+![Asterisk](https://img.shields.io/badge/Asterisk-VoIP_|_FreePBX-F05423?style=for-the-badge)
 
-#### 🛠️ What you will find here:
-* **Network Automation & Infrastructure Engineering:** Scripts, integrations, and tools for environment optimization.
-* **High-Availability Enterprise Systems:** Full-stack applications (such as local and cloud ERPs) designed with a focus on security, operational resilience, and offline capabilities.
-* **AI Agents & Integrations:** Intelligent solutions for everyday workflows.
+**Automação & Desenvolvimento**
+![Python](https://img.shields.io/badge/Python-Scripting_|_APIs-3776AB?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash)
+![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql)
 
----
-
-## 🇧🇷 Versão em Português
-
-### 🖐️ Olá, eu sou o Rafael!
-
-Profissional apaixonado por infraestrutura de TI, com **8 anos de experiência em Redes** e **6 anos em VoIP e Infraestrutura Linux**. 
-
-Atualmente, uno essa sólida bagagem de infraestrutura ao **desenvolvimento moderno de softwares e automações assistidos por Inteligência Artificial Agêntica**. Aplico toda a minha experiência em arquitetura de sistemas, estabilidade e segurança para construir soluções completas — unindo o melhor do mundo de redes com a engenharia de software inteligente.
-
-#### 🚀 Meu Propósito
-Simplificar a operação de pequenos, médios e grandes negócios, automatizando processos complexos para que as empresas possam focar no que realmente importa: seu crescimento.
-
-#### 🛠️ O que você encontrará por aqui:
-* **Automação de Redes & Engenharia de Infraestrutura:** Scripts, integrações e ferramentas para otimização de ambientes.
-* **Sistemas Corporativos de Alta Disponibilidade:** Aplicações completas (como ERPs locais e cloud) projetadas com foco em segurança, resiliência operacional e funcionamento offline.
-* **Agentes & Integrações com IA:** Soluções inteligentes para fluxos de trabalho do dia a dia.
+### 📂 Meus Focos Atuais
+- 📡 **Automação de Redes:** Scripts Multi-Vendor para otimização de ambientes ISP e Corporativos.
+- ⚙️ **Infraestrutura como Código:** Resiliência operacional e alta disponibilidade.
+- 🤖 **IA Agêntica:** Integração de agentes inteligentes em fluxos de trabalho de infraestrutura.
